@@ -1,0 +1,14 @@
+certifi==2026.5.20
+charset-normalizer==3.4.7
+dotenv==0.9.9
+flexcache==0.3
+flexparser==0.4
+idna==3.16
+obd==0.7.3
+Pint==0.24.4
+platformdirs==4.9.6
+pyserial==3.5
+python-dotenv==1.2.2
+requests==2.34.2
+typing_extensions==4.15.0
+urllib3==2.7.0
