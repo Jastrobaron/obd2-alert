@@ -47,12 +47,10 @@ nano .env
 ```
 
 The config values have the following semantics:
-
 - `API_KEY` - the API key required for authentication against the bot API
 - `USER_ID` - ID of your user account (accessible through developer settings)
 - `MESSAGE` - text of the message you want to send
 - `URL` - URL of the bot API
-```
 
 ## Issues
 If you encounter any issues, feel free to open a GitHub issue or a pull request.
