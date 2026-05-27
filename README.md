@@ -2,13 +2,13 @@
 Author: Jakub "Jastrobaron" Hresko
 
 ## Overview
-This is a simple script that will alert you if you drive too fast. It does so by monitoring your engine RPM through the OBD2 port.
+This is a simple script that will alert you if you drive too fast. It does so by monitoring your engine RPM through the OBD2 port using [python-obd](https://github.com/brendan-w/python-OBD).
 
 ## Requirements
 - OBD2 diagnostic tool (e.g. ELM327)
 - Laptop
     - Bluetooth/WiFi/USB/whatever connectivity to communicate with the OBD2 diagnostic tool
-    - Python3.9 installed
+    - Python 3.9 or newer
 - Running instance of [my Discord bot](https://github.com/Jastrobaron/AlfaX-Bot) that you have at least one server in common with, can be running locally on your machine
 - Sense of humor (optional, but strongly recommended)
 
